@@ -1,0 +1,342 @@
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+metest4	1	Picture	wait	0	0	1	60666	2	0	0	other	0
+metest4	2	Picture	fix	60999	0	1	60166	2	0	60000	other	0
+metest4	3	Picture	calc_vis	121332	0	1	2667	15	0	2500	other	0
+metest4	4	Picture	fix	135499	0	1	11166	2	0	11000	other	0
+metest4	5	Picture	calc_vis	146832	0	1	2667	2	0	2500	other	0
+metest4	6	Picture	fix	161165	0	2	20167	3	0	20000	other	0
+metest4	7	Picture	rest	181499	0	1	22166	3	0	22000	other	0
+metest4	8	Picture	fix	203832	0	1	8167	2	0	8000	other	0
+metest4	9	Picture	checkerH	212165	0	2	2167	3	0	2000	other	0
+metest4	10	Picture	checker_flash	216661	0	18	2171	19	0	2000	other	0
+metest4	11	Picture	checker_flash	221165	0	2	2167	3	0	2000	other	0
+metest4	12	Picture	checker_flash	225658	0	18	2174	19	0	2000	other	0
+metest4	13	Picture	checker_flash	230165	0	2	2167	3	0	2000	other	0
+metest4	14	Picture	fix	234665	0	2	11166	22	0	11000	other	0
+metest4	15	Sound	click_R	246060	61	1			0		other	0
+metest4	15	Picture	fix	263499	0	1	14167	2	0	14000	other	0
+metest4	16	Response	8	272231	8732	1						
+metest4	16	Sound	sent_aud	277923	91	1			0		other	0
+metest4	16	Response	8	278501	669	1						
+metest4	17	Response	8	285761	7929	1						
+metest4	18	Picture	fix	297166	0	1	8165	13	0	8000	other	0
+metest4	19	Picture	btn_vis_right	305499	0	1	2667	2	0	2500	other	0
+metest4	20	Picture	fix	319832	0	1	14162	21	0	14000	other	0
+metest4	21	Sound	sent_aud	334221	55	1			0		other	0
+metest4	22	Picture	fix	350499	0	1	8166	17	0	8000	other	0
+metest4	23	Sound	click_L	358892	60	1			0		other	0
+metest4	23	Picture	fix	374332	0	1	8167	2	0	8000	other	0
+metest4	23	Response	4	375862	1530	12						
+metest4	24	Response	4	381001	6669	1						
+metest4	24	Picture	btn_vis_left	382666	0	1	2665	20	0	2500	other	0
+metest4	25	Response	4	384969	2303	14						
+metest4	26	Picture	fix	396999	0	1	17167	2	0	17000	other	0
+metest4	27	Sound	sent_aud	414410	90	1			0		other	0
+metest4	28	Picture	fix	431499	0	1	11157	16	0	11000	other	0
+metest4	29	Picture	checkerV	442832	0	1	2167	2	0	2000	other	0
+metest4	30	Picture	checker_flash	447332	0	1	2167	2	0	2000	other	0
+metest4	31	Picture	checker_flash	451832	0	1	2167	2	0	2000	other	0
+metest4	32	Picture	checker_flash	456332	0	1	2167	2	0	2000	other	0
+metest4	33	Picture	checker_flash	460832	0	2	2167	3	0	2000	other	0
+metest4	34	Picture	fix	465332	0	1	8167	2	0	8000	other	0
+metest4	35	Sound	calc_aud	473722	56	1			0		other	0
+metest4	36	Picture	fix	486665	0	17	14167	18	0	14000	other	0
+metest4	37	Picture	sent_vis	500999	0	1	2667	2	0	2500	other	0
+metest4	38	Picture	fix	515332	0	1	14167	2	0	14000	other	0
+metest4	39	Picture	sent_vis	529658	0	15	2674	16	0	2500	other	0
+metest4	40	Picture	fix	543999	0	1	17167	2	0	17000	other	0
+metest4	41	Sound	calc_aud	561416	84	1			0		other	0
+metest4	42	Picture	fix	574166	0	1	11166	3	0	11000	other	0
+metest4	43	Sound	calc_aud	585577	78	1			0		other	0
+metest4	44	Picture	fix	597332	0	1	5167	2	0	5000	other	0
+metest4	45	Picture	rest	602666	0	1	22157	21	0	22000	other	0
+metest4	46	Picture	fix	624999	0	1	8167	2	0	8000	other	0
+metest4	47	Picture	rest	633332	0	1	22167	2	0	22000	other	0
+metest4	48	Picture	fix	655666	0	1	5166	2	0	5000	other	0
+metest4	49	Picture	sent_vis	660999	0	1	2667	2	0	2500	other	0
+metest4	50	Picture	fix	675332	0	2	20167	3	0	20000	other	0
+metest4	51	Picture	checkerH	695666	0	1	2166	3	0	2000	other	0
+metest4	52	Picture	checker_flash	700166	0	1	2166	3	0	2000	other	0
+metest4	53	Picture	checker_flash	704666	0	1	2166	3	0	2000	other	0
+metest4	54	Picture	checker_flash	709166	0	1	2166	3	0	2000	other	0
+metest4	55	Picture	checker_flash	713666	0	1	2166	3	0	2000	other	0
+metest4	56	Picture	fix	718166	0	1	11166	3	0	11000	other	0
+metest4	57	Sound	click_L	729576	82	1			0		other	0
+metest4	57	Picture	fix	744999	0	1	14167	2	0	14000	other	0
+metest4	57	Response	4	745059	60	4						
+metest4	57	Response	4	750610	5611	13						
+metest4	58	Response	4	757500	12501	1						
+metest4	59	Picture	rest	759333	0	1	22152	17	0	22000	other	0
+metest4	60	Picture	fix	781666	0	1	8167	2	0	8000	other	0
+metest4	61	Picture	btn_vis_right	789999	0	1	2667	2	0	2500	other	0
+metest4	61	Picture	fix	804161	0	16	11172	17	0	11000	other	0
+metest4	61	Response	8	809784	5623	9						
+metest4	62	Response	8	814629	10468	1						
+metest4	62	Picture	btn_vis_left	815499	0	1	2667	2	0	2500	other	0
+metest4	63	Response	8	819140	3641	1						
+metest4	63	Picture	fix	829833	0	1	23162	18	0	23000	other	0
+metest4	63	Response	4	833766	3933	7						
+metest4	63	Response	4	838228	8395	4						
+metest4	64	Response	4	842240	12407	1						
+metest4	65	Picture	sent_vis	853166	0	1	2659	20	0	2500	other	0
+metest4	66	Picture	fix	867499	0	1	17167	2	0	17000	other	0
+metest4	67	Picture	rest	884813	0	22	22020	23	0	22000	other	0
+metest4	68	Picture	fix	906999	0	1	2167	2	0	2000	other	0
+metest4	69	Picture	rest	909333	0	1	22166	2	0	22000	other	0
+metest4	70	Picture	fix	931666	0	1	8167	2	0	8000	other	0
+metest4	71	Sound	calc_aud	940070	73	14			0		other	0
+metest4	72	Picture	fix	954166	0	1	14167	2	0	14000	other	0
+metest4	73	Sound	click_R	968563	64	1			0		other	0
+metest4	73	Picture	fix	985999	0	1	5167	2	0	5000	other	0
+metest4	74	Response	8	991159	5160	1						
+metest4	74	Sound	sent_aud	991371	38	20			0		other	0
+metest4	74	Response	8	995639	4306	1						
+metest4	75	Response	8	1000259	8926	1						
+metest4	76	Picture	fix	1008666	0	1	11167	2	0	11000	other	0
+metest4	77	Picture	rest	1019999	0	1	22167	2	0	22000	other	0
+metest4	78	Picture	fix	1042333	0	1	8166	2	0	8000	other	0
+metest4	79	Picture	checkerV	1050654	0	14	2012	15	0	2000	other	0
+metest4	80	Picture	checker_flash	1054999	0	1	2167	2	0	2000	other	0
+metest4	81	Picture	checker_flash	1059499	0	1	2167	2	0	2000	other	0
+metest4	82	Picture	checker_flash	1063999	0	1	2167	2	0	2000	other	0
+metest4	83	Picture	checker_flash	1068499	0	1	2167	2	0	2000	other	0
+metest4	84	Picture	fix	1072999	0	1	14167	2	0	14000	other	0
+metest4	85	Picture	rest	1087333	0	1	22166	2	0	22000	other	0
+metest4	86	Picture	fix	1109666	0	1	8167	2	0	8000	other	0
+metest4	87	Picture	rest	1117999	0	1	22167	2	0	22000	other	0
+metest4	88	Picture	fix	1140333	0	1	8166	3	0	8000	other	0
+metest4	89	Picture	rest	1148666	0	1	22167	2	0	22000	other	0
+metest4	90	Picture	fix	1170999	0	14	8167	15	0	8000	other	0
+metest4	91	Sound	calc_aud	1179398	65	1			0		other	0
+metest4	92	Picture	fix	1194333	0	1	2166	3	0	2000	other	0
+metest4	93	Picture	rest	1196666	0	1	22167	2	0	22000	other	0
+metest4	94	Picture	fix	1218999	0	2	11167	3	0	11000	other	0
+metest4	95	Picture	rest	1230333	0	1	22167	2	0	22000	other	0
+metest4	96	Picture	fix	1252666	0	1	8167	2	0	8000	other	0
+metest4	97	Picture	btn_vis_left	1261000	0	1	2661	20	0	2500	other	0
+metest4	97	Picture	fix	1275166	0	1	14167	2	0	14000	other	0
+metest4	97	Response	4	1279878	4712	3						
+metest4	97	Response	4	1284378	9212	1						
+metest4	98	Response	4	1288399	13233	1						
+metest4	99	Sound	sent_aud	1289566	73	12			0		other	0
+metest4	100	Picture	fix	1306654	0	16	11179	17	0	11000	other	0
+metest4	101	Picture	checkerV	1318000	0	1	2166	2	0	2000	other	0
+metest4	102	Picture	checker_flash	1322500	0	1	2166	2	0	2000	other	0
+metest4	103	Picture	checker_flash	1327000	0	1	2166	2	0	2000	other	0
+metest4	104	Picture	checker_flash	1331500	0	1	2166	2	0	2000	other	0
+metest4	105	Picture	checker_flash	1336000	0	1	2166	2	0	2000	other	0
+metest4	106	Picture	fix	1340500	0	1	11166	2	0	11000	other	0
+metest4	107	Picture	calc_vis	1351833	0	1	2667	2	0	2500	other	0
+metest4	108	Picture	fix	1366166	0	1	23167	2	0	23000	other	0
+metest4	109	Picture	rest	1389500	0	1	22166	2	0	22000	other	0
+metest4	110	Picture	fix	1411833	0	13	2167	14	0	2000	other	0
+metest4	111	Picture	sent_vis	1414166	0	1	2667	2	0	2500	other	0
+metest4	112	Picture	fix	1428333	0	1	23155	17	0	23000	other	0
+metest4	113	Sound	calc_aud	1451715	49	1			0		other	0
+metest4	114	Picture	fix	1463666	0	1	5167	2	0	5000	other	0
+metest4	115	Sound	calc_aud	1469058	58	1			0		other	0
+metest4	116	Picture	fix	1483166	0	1	5167	2	0	5000	other	0
+metest4	117	Picture	checkerV	1488495	0	15	2171	16	0	2000	other	0
+metest4	118	Picture	checker_flash	1493000	0	1	2166	2	0	2000	other	0
+metest4	119	Picture	checker_flash	1497500	0	1	2166	2	0	2000	other	0
+metest4	120	Picture	checker_flash	1502000	0	1	2166	2	0	2000	other	0
+metest4	121	Picture	checker_flash	1506500	0	1	2166	2	0	2000	other	0
+metest4	122	Picture	fix	1510989	0	18	14011	19	0	14000	other	0
+metest4	122	Sound	click_R	1525211	45	17			0		other	0
+metest4	123	Response	8	1541160	15994	1						
+metest4	123	Picture	fix	1542666	0	1	11167	2	0	11000	other	0
+metest4	123	Response	8	1546678	4012	1						
+metest4	124	Response	8	1552313	9647	8						
+metest4	125	Sound	sent_aud	1554055	55	13			0		other	0
+metest4	126	Picture	fix	1568333	0	1	5167	2	0	5000	other	0
+metest4	127	Picture	checkerH	1573666	0	1	2157	22	0	2000	other	0
+metest4	128	Picture	checker_flash	1578166	0	1	2167	2	0	2000	other	0
+metest4	129	Picture	checker_flash	1582666	0	2	2167	3	0	2000	other	0
+metest4	130	Picture	checker_flash	1587166	0	1	2167	2	0	2000	other	0
+metest4	131	Picture	checker_flash	1591666	0	1	2153	20	0	2000	other	0
+metest4	132	Picture	fix	1596000	0	1	20166	3	0	20000	other	0
+metest4	133	Picture	calc_vis	1616333	0	1	2665	19	0	2500	other	0
+metest4	134	Picture	fix	1630666	0	2	17167	3	0	17000	other	0
+metest4	135	Picture	checkerV	1647987	0	20	2179	22	0	2000	other	0
+metest4	136	Picture	checker_flash	1652500	0	1	2166	3	0	2000	other	0
+metest4	137	Picture	checker_flash	1657000	0	1	2166	3	0	2000	other	0
+metest4	138	Picture	checker_flash	1661500	0	1	2166	3	0	2000	other	0
+metest4	139	Picture	checker_flash	1666000	0	1	2166	3	0	2000	other	0
+metest4	140	Picture	fix	1670500	0	1	14166	3	0	14000	other	0
+metest4	141	Picture	sent_vis	1684833	0	1	2667	2	0	2500	other	0
+metest4	142	Picture	fix	1699166	0	2	17167	3	0	17000	other	0
+metest4	143	Sound	click_R	1716567	67	1			0		other	0
+metest4	144	Picture	fix	1734000	0	1	2149	21	0	2000	other	0
+metest4	144	Picture	calc_vis	1736331	0	18	2649	39	0	2500	other	0
+metest4	144	Response	8	1739580	3249	1						
+metest4	144	Response	8	1744268	7937	1						
+metest4	145	Response	8	1748521	12190	10						
+metest4	146	Picture	fix	1750500	0	1	20167	2	0	20000	other	0
+metest4	147	Picture	sent_vis	1770833	0	1	2667	2	0	2500	other	0
+metest4	148	Picture	fix	1785165	0	19	14168	20	0	14000	other	0
+metest4	149	Sound	click_L	1799579	79	1			0		other	0
+metest4	149	Picture	fix	1815000	0	1	11163	21	0	11000	other	0
+metest4	149	Response	4	1819328	4328	1						
+metest4	150	Response	4	1823027	8027	1						
+metest4	150	Sound	calc_aud	1826390	57	1			0		other	0
+metest4	151	Response	4	1826548	215	1						
+metest4	152	Picture	fix	1842000	0	1	8167	2	0	8000	other	0
+metest4	153	Picture	checkerH	1850326	0	14	2174	15	0	2000	other	0
+metest4	154	Picture	checker_flash	1854833	0	1	2167	2	0	2000	other	0
+metest4	155	Picture	checker_flash	1859333	0	1	2167	2	0	2000	other	0
+metest4	156	Picture	checker_flash	1863833	0	1	2167	2	0	2000	other	0
+metest4	157	Picture	checker_flash	1868333	0	1	2166	16	0	2000	other	0
+metest4	158	Picture	fix	1872833	0	1	14167	2	0	14000	other	0
+metest4	159	Picture	rest	1887167	0	1	22166	2	0	22000	other	0
+metest4	160	Picture	fix	1909500	0	1	8167	2	0	8000	other	0
+metest4	161	Picture	rest	1917833	0	1	22167	2	0	22000	other	0
+metest4	162	Picture	fix	1940167	0	1	11166	2	0	11000	other	0
+metest4	163	Picture	rest	1951500	0	1	22167	2	0	22000	other	0
+metest4	164	Picture	fix	1973827	0	13	2173	14	0	2000	other	0
+metest4	165	Picture	checkerH	1976167	0	1	2166	2	0	2000	other	0
+metest4	166	Picture	checker_flash	1980667	0	1	2158	22	0	2000	other	0
+metest4	167	Picture	checker_flash	1985167	0	1	2157	16	0	2000	other	0
+metest4	168	Picture	checker_flash	1989667	0	1	2166	2	0	2000	other	0
+metest4	169	Picture	checker_flash	1994167	0	1	2155	15	0	2000	other	0
+metest4	170	Picture	fix	1998667	0	1	17166	2	0	17000	other	0
+metest4	171	Sound	calc_aud	2016078	78	2			0		other	0
+metest4	172	Picture	fix	2028648	0	21	11019	22	0	11000	other	0
+metest4	173	Picture	sent_vis	2039833	0	1	2667	2	0	2500	other	0
+metest4	174	Picture	fix	2054167	0	1	17166	2	0	17000	other	0
+metest4	175	Picture	calc_vis	2071496	0	15	2671	16	0	2500	other	0
+metest4	176	Picture	fix	2085500	0	1	17161	13	0	17000	other	0
+metest4	177	Picture	calc_vis	2102833	0	1	2667	2	0	2500	other	0
+metest4	178	Picture	fix	2117167	0	1	14166	3	0	14000	other	0
+metest4	179	Picture	checkerV	2131500	0	1	2167	2	0	2000	other	0
+metest4	180	Picture	checker_flash	2136000	0	1	2167	2	0	2000	other	0
+metest4	181	Picture	checker_flash	2140500	0	1	2167	2	0	2000	other	0
+metest4	182	Picture	checker_flash	2145000	0	1	2167	2	0	2000	other	0
+metest4	183	Picture	checker_flash	2149500	0	1	2167	2	0	2000	other	0
+metest4	184	Picture	fix	2154000	0	1	17167	2	0	17000	other	0
+metest4	185	Picture	checkerV	2171333	0	2	2167	3	0	2000	other	0
+metest4	186	Picture	checker_flash	2175833	0	2	2167	3	0	2000	other	0
+metest4	187	Picture	checker_flash	2180333	0	2	2167	3	0	2000	other	0
+metest4	188	Picture	checker_flash	2184834	0	1	2166	2	0	2000	other	0
+metest4	189	Picture	checker_flash	2189334	0	1	2166	2	0	2000	other	0
+metest4	190	Picture	fix	2193834	0	1	14151	18	0	14000	other	0
+metest4	191	Picture	checkerV	2208167	0	1	2167	2	0	2000	other	0
+metest4	192	Picture	checker_flash	2212667	0	1	2167	2	0	2000	other	0
+metest4	193	Picture	checker_flash	2217165	0	13	2169	14	0	2000	other	0
+metest4	194	Picture	checker_flash	2221667	0	1	2167	2	0	2000	other	0
+metest4	195	Picture	checker_flash	2226167	0	1	2167	2	0	2000	other	0
+metest4	196	Picture	fix	2230661	0	17	11173	18	0	11000	other	0
+metest4	197	Picture	btn_vis_left	2242000	0	1	2667	2	0	2500	other	0
+metest4	197	Picture	fix	2256167	0	1	17167	2	0	17000	other	0
+metest4	197	Response	4	2260318	4151	1						
+metest4	197	Response	4	2264217	8050	1						
+metest4	198	Response	4	2267947	11780	1						
+metest4	199	Picture	btn_vis_left	2273500	0	1	2658	13	0	2500	other	0
+metest4	199	Picture	fix	2287500	0	1	17167	2	0	17000	other	0
+metest4	199	Response	4	2292267	4767	1						
+metest4	199	Response	4	2297216	9716	1						
+metest4	200	Response	4	2301467	13967	1						
+metest4	201	Picture	checkerH	2304834	0	1	2166	2	0	2000	other	0
+metest4	202	Picture	checker_flash	2309334	0	1	2161	21	0	2000	other	0
+metest4	203	Picture	checker_flash	2313834	0	1	2166	2	0	2000	other	0
+metest4	204	Picture	checker_flash	2318334	0	1	2166	2	0	2000	other	0
+metest4	205	Picture	checker_flash	2322834	0	1	2158	13	0	2000	other	0
+metest4	206	Picture	fix	2327334	0	1	11154	17	0	11000	other	0
+metest4	207	Picture	calc_vis	2338667	0	1	2651	19	0	2500	other	0
+metest4	208	Picture	fix	2352834	0	1	20158	17	0	20000	other	0
+metest4	209	Picture	checkerH	2373167	0	1	2167	2	0	2000	other	0
+metest4	210	Picture	checker_flash	2377667	0	1	2167	2	0	2000	other	0
+metest4	211	Picture	checker_flash	2382167	0	1	2167	2	0	2000	other	0
+metest4	212	Picture	checker_flash	2386667	0	1	2167	2	0	2000	other	0
+metest4	213	Picture	checker_flash	2391167	0	1	2167	2	0	2000	other	0
+metest4	214	Picture	fix	2395667	0	1	14167	2	0	14000	other	0
+metest4	215	Picture	btn_vis_right	2410000	0	1	2667	2	0	2500	other	0
+metest4	215	Picture	fix	2424334	0	1	17166	2	0	17000	other	0
+metest4	215	Response	8	2427137	2803	1						
+metest4	215	Response	8	2430948	6614	1						
+metest4	216	Response	8	2434234	9900	16						
+metest4	217	Sound	click_R	2441718	51	1			0		other	0
+metest4	217	Picture	fix	2459167	0	1	11167	2	0	11000	other	0
+metest4	217	Response	8	2459907	740	1						
+metest4	217	Response	8	2463537	4370	1						
+metest4	218	Response	8	2467456	8289	1						
+metest4	219	Picture	calc_vis	2470500	0	1	2667	2	0	2500	other	0
+metest4	220	Picture	fix	2484834	0	1	14162	22	0	14000	other	0
+metest4	221	Sound	sent_aud	2499223	56	1			0		other	0
+metest4	222	Picture	fix	2516334	0	1	11166	2	0	11000	other	0
+metest4	223	Picture	rest	2527667	0	1	22159	19	0	22000	other	0
+metest4	224	Picture	fix	2550000	0	1	8167	2	0	8000	other	0
+metest4	225	Picture	rest	2558334	0	1	22166	3	0	22000	other	0
+metest4	226	Picture	fix	2580665	0	20	8169	21	0	8000	other	0
+metest4	227	Picture	sent_vis	2589000	0	2	2658	17	0	2500	other	0
+metest4	228	Picture	fix	2603334	0	1	11166	3	0	11000	other	0
+metest4	229	Picture	checkerH	2614660	0	20	2174	21	0	2000	other	0
+metest4	230	Picture	checker_flash	2619159	0	14	2175	15	0	2000	other	0
+metest4	231	Picture	checker_flash	2623658	0	18	2176	19	0	2000	other	0
+metest4	232	Picture	checker_flash	2628167	0	1	2167	18	0	2000	other	0
+metest4	233	Picture	checker_flash	2632667	0	1	2167	2	0	2000	other	0
+metest4	234	Picture	fix	2637167	0	1	17167	2	0	17000	other	0
+metest4	235	Sound	calc_aud	2654587	87	2			0		other	0
+metest4	236	Picture	fix	2668167	0	1	8167	2	0	8000	other	0
+metest4	236	Sound	click_L	2676565	65	1			0		other	0
+metest4	237	Response	4	2690117	13617	1						
+metest4	237	Picture	fix	2692001	0	1	5163	20	0	5000	other	0
+metest4	238	Response	4	2694370	2369	7						
+metest4	238	Sound	click_L	2697392	58	1			0		other	0
+metest4	238	Response	4	2698361	1027	8						
+metest4	239	Response	4	2712277	14943	1						
+metest4	239	Picture	fix	2712834	0	1	8166	21	0	8000	other	0
+metest4	239	Response	4	2716016	3182	1						
+metest4	240	Response	4	2719537	6703	1						
+metest4	241	Picture	calc_vis	2721167	0	1	2667	2	0	2500	other	0
+metest4	242	Picture	fix	2735501	0	1	23159	18	0	23000	other	0
+metest4	243	Picture	checkerV	2758834	0	1	2167	2	0	2000	other	0
+metest4	244	Picture	checker_flash	2763334	0	1	2167	2	0	2000	other	0
+metest4	245	Picture	checker_flash	2767834	0	1	2167	2	0	2000	other	0
+metest4	246	Picture	checker_flash	2772334	0	1	2167	2	0	2000	other	0
+metest4	247	Picture	checker_flash	2776834	0	1	2167	2	0	2000	other	0
+metest4	248	Picture	fix	2781334	0	1	11167	2	0	11000	other	0
+metest4	249	Picture	checkerH	2792667	0	1	2165	22	0	2000	other	0
+metest4	250	Picture	checker_flash	2797154	0	20	2013	21	0	2000	other	0
+metest4	251	Picture	checker_flash	2801501	0	1	2166	2	0	2000	other	0
+metest4	252	Picture	checker_flash	2806001	0	1	2166	2	0	2000	other	0
+metest4	253	Picture	checker_flash	2810501	0	1	2166	2	0	2000	other	0
+metest4	254	Picture	fix	2815001	0	1	14166	2	0	14000	other	0
+metest4	255	Picture	checkerH	2829334	0	1	2167	2	0	2000	other	0
+metest4	256	Picture	checker_flash	2833834	0	1	2167	2	0	2000	other	0
+metest4	257	Picture	checker_flash	2838334	0	1	2167	2	0	2000	other	0
+metest4	258	Picture	checker_flash	2842832	0	14	2169	15	0	2000	other	0
+metest4	259	Picture	checker_flash	2847334	0	1	2167	2	0	2000	other	0
+metest4	260	Picture	fix	2851834	0	1	14167	2	0	14000	other	0
+metest4	261	Picture	rest	2866167	0	1	22167	2	0	22000	other	0
+metest4	262	Picture	fix	2888501	0	1	5166	2	0	5000	other	0
+metest4	263	Picture	btn_vis_right	2893834	0	1	2667	2	0	2500	other	0
+metest4	263	Picture	fix	2908167	0	1	17167	2	0	17000	other	0
+metest4	263	Response	8	2912596	4429	1						
+metest4	263	Response	8	2915676	7509	1						
+metest4	264	Response	8	2918785	10618	1						
+metest4	265	Picture	checkerV	2925501	0	1	2166	2	0	2000	other	0
+metest4	266	Picture	checker_flash	2930001	0	1	2155	15	0	2000	other	0
+metest4	267	Picture	checker_flash	2934501	0	1	2154	19	0	2000	other	0
+metest4	268	Picture	checker_flash	2938832	0	12	2169	13	0	2000	other	0
+metest4	269	Picture	checker_flash	2943334	0	1	2167	2	0	2000	other	0
+metest4	270	Picture	fix	2947834	0	1	17156	13	0	17000	other	0
+metest4	271	Picture	rest	2965167	0	1	22167	2	0	22000	other	0
+metest4	272	Picture	fix	2987501	0	1	5166	2	0	5000	other	0
+metest4	273	Sound	sent_aud	2992891	57	12			0		other	0
+metest4	274	Picture	fix	3010161	0	14	14173	15	0	14000	other	0
+metest4	275	Picture	sent_vis	3024501	0	1	2666	2	0	2500	other	0
+metest4	276	Picture	fix	3038823	0	12	17011	13	0	17000	other	0
+metest4	277	Picture	btn_vis_right	3056001	0	1	2666	2	0	2500	other	0
+metest4	277	Picture	fix	3070167	0	2	11167	3	0	11000	other	0
+metest4	277	Response	8	3073565	3398	1						
+metest4	277	Response	8	3076545	6378	1						
+metest4	278	Response	8	3078986	8819	12						
+metest4	279	Sound	sent_aud	3081562	73	12			0		other	0
+metest4	280	Picture	fix	3096334	0	1	11167	2	0	11000	other	0
+metest4	281	Sound	sent_aud	3107730	63	1			0		other	0
+metest4	282	Picture	fix	3123001	0	1	8157	22	0	8000	other	0
+metest4	283	Picture	rest	3131334	0	1	22167	2	0	22000	other	0
+metest4	284	Picture	fix	3153668	0	1	8166	2	0	8000	other	0
+metest4	285	Picture	rest	3162001	0	1	22164	13	0	22000	other	0
+metest4	286	Picture	fix	3184334	0	1	22167	2	0	22000	other	0
+metest4	287	Picture	fix	3206659	0	14	60175	15	0	60000	other	0
