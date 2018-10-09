@@ -25,5 +25,4 @@ speech-text| sent\_aud -sent\_vis +calc\_aud -calc\_vis|
 text-checker| sent\_vis +calc\_vis -checkerH -checkerV
 
 
-
-
+Submit your proc script and a picture of interesting result in a pull request.
