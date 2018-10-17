@@ -1,0 +1,38 @@
+uber_subject.py                                                                 \
+    -cvar subj_dir subject_results/group.METEST4/subj.METEST4                   \
+    -svar anat                                                                  \
+    /bind/Homework/hw6/bids/sub-METEST4/anat/sub-METEST4_run-02_T1w.nii.gz      \
+    -svar blur_size 6.0                                                         \
+    -svar epi                                                                   \
+    /bind/Homework/hw6/bids/sub-METEST4/func/sub-METEST4_task-words_bold.nii.gz \
+                                                                                \
+    -svar epi_wildcard yes                                                      \
+    -svar gid METEST4                                                           \
+    -svar gltsym '.25*btn_vis_left -.25*btn_vis_right +.25*click_L              \
+    -.25*click_R' '.25*sent_aud +.25*sent_vis -.25*calc_aud -.25*calc_vis'      \
+    '.25*sent_aud -.25*sent_vis +.25*calc_aud -.25*calc_vis' '.25*sent_vis      \
+    +.25*calc_vis -.25*checkerH -.25*checkerV'                                  \
+    -svar gltsym_label right-left sent-calc speech-text text-checker            \
+    -svar motion_limit 0.5                                                      \
+    -svar regress_mot_deriv yes                                                 \
+    -svar run_clustsim no                                                       \
+    -svar sid METEST4                                                           \
+    -svar stim /bind/Homework/hw6/scripts/btn_vis_left.txt                      \
+    /bind/Homework/hw6/scripts/btn_vis_right.txt                                \
+    /bind/Homework/hw6/scripts/calc_aud.txt                                     \
+    /bind/Homework/hw6/scripts/calc_vis.txt                                     \
+    /bind/Homework/hw6/scripts/checkerH.txt                                     \
+    /bind/Homework/hw6/scripts/checkerV.txt                                     \
+    /bind/Homework/hw6/scripts/click_L.txt                                      \
+    /bind/Homework/hw6/scripts/click_R.txt                                      \
+    /bind/Homework/hw6/scripts/sent_aud.txt                                     \
+    /bind/Homework/hw6/scripts/sent_vis.txt                                     \
+    -svar stim_basis 'GAM' 'GAM' 'GAM' 'GAM' 'GAM' 'GAM' 'GAM' 'GAM' 'GAM'      \
+    'GAM'                                                                       \
+    -svar stim_label btn_vis_left btn_vis_right calc_aud calc_vis checkerH      \
+    checkerV click_L click_R sent_aud sent_vis                                  \
+    -svar stim_type times times times times times times times times times       \
+    times                                                                       \
+    -svar stim_wildcard yes                                                     \
+    -svar tlrc_base MNI_avg152T1+tlrc                                           \
+    -svar volreg_base first
